@@ -1,7 +1,7 @@
 # Real-Time Hand Gesture Recognition Based on Artificial Feed-Forward Neural Networks and EMG
 
 ## Overview
-This work is the python implementation of [1] plus a validation methodology for hyperparameter's tuning. The problem addressed in [1] is the real-time hand gesture recognition based on superfictial electromyography (sEMG) signals. Given the sEMG data from the Myo-armband, the system is composed of four modules: preprocessing, feature extraction, classification, and post-processing.
+This work is the python implementation of [1] plus a validation methodology for hyperparameter's tuning. The problem addressed in [1] is the real-time hand gesture recognition based on superfictial electromyography (sEMG) signals. Given the sEMG data from the Myo-armband, the system is composed of four modules: preprocessing, feature extraction, classification, and post-processing. We are providing a Colab Jupyter Notebook with a demo containing all the updated experiments and codes, please access this [link](https://github.com/gschaves/gesture_rec_NSRE/blob/master/HGC_demo.ipynb) for the most recent results. [TODO: update all the files accordingly]
 
 ## The System
 ### Preprocessing
