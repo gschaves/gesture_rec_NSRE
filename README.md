@@ -21,7 +21,7 @@ The post-processing is a time delay that eliminates consecutive repetitions of t
 - Packages in env.yml.
 
 ## Dataset
-Available in this [link]([https://drive.google.com/drive/folders/1sP8R0Ie5bbz1mro3KPNM-k898lk8_7_2?usp=sharing]).
+Available in this [link](https://drive.google.com/drive/folders/1sP8R0Ie5bbz1mro3KPNM-k898lk8_7_2?usp=sharing).
 
 ## Usage
 - Download the [Dataset](https://drive.google.com/drive/folders/1sP8R0Ie5bbz1mro3KPNM-k898lk8_7_2?usp=sharing);
